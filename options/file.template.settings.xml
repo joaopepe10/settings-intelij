@@ -1,0 +1,7 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="MockJava.java" file-name="Test" reformat="true" live-template-enabled="true" />
+    </default_templates>
+  </component>
+</application>

@@ -1,0 +1,11 @@
+com.Migliaccio.DB_ProgressBar
+com.github.b3er.idea.plugins.arc.browser
+com.godwin.json.parser
+github.cweijan.test-theme
+com.lawmillenium.narutoprogress
+ink.organics.pojo2json
+izhangzhihao.rainbow.brackets
+com.clutcher.comments_highlighter
+org.sonarlint.idea
+com.mallowigi
+zielu.gittoolbox
